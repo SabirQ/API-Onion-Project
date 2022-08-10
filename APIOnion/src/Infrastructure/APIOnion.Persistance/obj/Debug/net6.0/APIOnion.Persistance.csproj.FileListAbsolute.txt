@@ -1,0 +1,17 @@
+C:\Users\sabir\OneDrive\Рабочий стол\API_Project\APIOnion\src\Infrastructure\APIOnion.Persistance\bin\Debug\net6.0\APIOnion.Persistance.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\API_Project\APIOnion\src\Infrastructure\APIOnion.Persistance\bin\Debug\net6.0\APIOnion.Persistance.dll
+C:\Users\sabir\OneDrive\Рабочий стол\API_Project\APIOnion\src\Infrastructure\APIOnion.Persistance\bin\Debug\net6.0\APIOnion.Persistance.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\API_Project\APIOnion\src\Infrastructure\APIOnion.Persistance\bin\Debug\net6.0\APIOnion.Application.dll
+C:\Users\sabir\OneDrive\Рабочий стол\API_Project\APIOnion\src\Infrastructure\APIOnion.Persistance\bin\Debug\net6.0\APIOnion.Domain.dll
+C:\Users\sabir\OneDrive\Рабочий стол\API_Project\APIOnion\src\Infrastructure\APIOnion.Persistance\bin\Debug\net6.0\APIOnion.Application.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\API_Project\APIOnion\src\Infrastructure\APIOnion.Persistance\bin\Debug\net6.0\APIOnion.Domain.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\API_Project\APIOnion\src\Infrastructure\APIOnion.Persistance\obj\Debug\net6.0\APIOnion.Persistance.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\API_Project\APIOnion\src\Infrastructure\APIOnion.Persistance\obj\Debug\net6.0\APIOnion.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\API_Project\APIOnion\src\Infrastructure\APIOnion.Persistance\obj\Debug\net6.0\APIOnion.Persistance.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\API_Project\APIOnion\src\Infrastructure\APIOnion.Persistance\obj\Debug\net6.0\APIOnion.Persistance.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\API_Project\APIOnion\src\Infrastructure\APIOnion.Persistance\obj\Debug\net6.0\APIOnion.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\API_Project\APIOnion\src\Infrastructure\APIOnion.Persistance\obj\Debug\net6.0\APIOnion.Persistance.csproj.CopyComplete
+C:\Users\sabir\OneDrive\Рабочий стол\API_Project\APIOnion\src\Infrastructure\APIOnion.Persistance\obj\Debug\net6.0\APIOnion.Persistance.dll
+C:\Users\sabir\OneDrive\Рабочий стол\API_Project\APIOnion\src\Infrastructure\APIOnion.Persistance\obj\Debug\net6.0\refint\APIOnion.Persistance.dll
+C:\Users\sabir\OneDrive\Рабочий стол\API_Project\APIOnion\src\Infrastructure\APIOnion.Persistance\obj\Debug\net6.0\APIOnion.Persistance.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\API_Project\APIOnion\src\Infrastructure\APIOnion.Persistance\obj\Debug\net6.0\ref\APIOnion.Persistance.dll

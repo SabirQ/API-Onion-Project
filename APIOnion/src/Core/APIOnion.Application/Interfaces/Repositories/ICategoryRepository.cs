@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace APIOnion.Application.Interfaces.Repositories
 {
-    internal interface ICategoryRepository:IGenericRepository<Category>
+    public interface ICategoryRepository:IGenericRepository<Category>
     {
 
     }

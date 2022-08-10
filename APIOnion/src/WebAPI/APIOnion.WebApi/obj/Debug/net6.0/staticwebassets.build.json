@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PWCTATb6OdG9eEfSXXuMb04EjYjRz1W49cDPbsjUVJI=",
+  "Source": "APIOnion.WebApi",
+  "BasePath": "_content/APIOnion.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
