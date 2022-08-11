@@ -1,6 +1,7 @@
 ﻿using APIOnion.Application.Interfaces.Repositories;
 using APIOnion.Domain.Entities;
 using APIOnion.Persistance.Context;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,7 +12,7 @@ namespace APIOnion.Persistance.Repositories
 {
     public class CategoryRepository:GenericRepository<Category>,ICategoryRepository
     {
-        public CategoryRepository(AppDbContext context):base(context)
+        public CategoryRepository(AppDbContext context,DbSet<Category> dbSet):base(context,dbSet)
         {
 
         }

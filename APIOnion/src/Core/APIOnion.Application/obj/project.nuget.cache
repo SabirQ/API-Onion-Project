@@ -1,10 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "2ToR1FFMRqeiXB63IkBebMCFHb40L/JL963s6U/VeFTizoKaPi0HHbGd2uInOMh0x221oxYeBRW1rkTG2e0ztw==",
+  "dgSpecHash": "p0CTT3k1mQzoyRkwGAHVNBbfuA6qeOCBfrRJK1dAJEpA/SzVi7+CkOksb0IxpW0g8Bui5c8X9FzYre5AmR5KWw==",
   "success": true,
   "projectFilePath": "C:\\Users\\sabir\\OneDrive\\Рабочий стол\\API_Project\\APIOnion\\src\\Core\\APIOnion.Application\\APIOnion.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\sabir\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\sabir\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\sabir\\.nuget\\packages\\fluentvalidation\\11.2.0\\fluentvalidation.11.2.0.nupkg.sha512",
+    "C:\\Users\\sabir\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.1\\fluentvalidation.aspnetcore.11.2.1.nupkg.sha512",
+    "C:\\Users\\sabir\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.0\\fluentvalidation.dependencyinjectionextensions.11.2.0.nupkg.sha512",
     "C:\\Users\\sabir\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\sabir\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\sabir\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.8\\microsoft.entityframeworkcore.6.0.8.nupkg.sha512",
     "C:\\Users\\sabir\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.8\\microsoft.entityframeworkcore.abstractions.6.0.8.nupkg.sha512",
     "C:\\Users\\sabir\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.8\\microsoft.entityframeworkcore.analyzers.6.0.8.nupkg.sha512",

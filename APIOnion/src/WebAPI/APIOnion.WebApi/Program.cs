@@ -1,6 +1,9 @@
 using APIOnion.Application.Interfaces.Repositories;
+using APIOnion.Application.Mapping;
+using APIOnion.Application.ServiceRegistration;
 using APIOnion.Persistance.Context;
 using APIOnion.Persistance.Repositories;
+using APIOnion.Persistance.ServiceRegistration;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,9 +14,8 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddDbContext<AppDbContext>(opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("Default")
-    ,d => d.MigrationsAssembly("APIOnion.Persistance")));
-builder.Services.AddTransient<ICategoryRepository, CategoryRepository>();
+builder.Services.AddPersistenceRegistration(builder.Configuration);
+builder.Services.ApplicationServiceRegistration();
 
 var app = builder.Build();
 

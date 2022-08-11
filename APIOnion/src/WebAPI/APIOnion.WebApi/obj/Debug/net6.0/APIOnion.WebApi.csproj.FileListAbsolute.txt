@@ -65,3 +65,8 @@ C:\Users\sabir\OneDrive\Рабочий стол\API_Project\APIOnion\src\WebAPI\
 C:\Users\sabir\OneDrive\Рабочий стол\API_Project\APIOnion\src\WebAPI\APIOnion.WebApi\obj\Debug\net6.0\APIOnion.WebApi.pdb
 C:\Users\sabir\OneDrive\Рабочий стол\API_Project\APIOnion\src\WebAPI\APIOnion.WebApi\obj\Debug\net6.0\APIOnion.WebApi.genruntimeconfig.cache
 C:\Users\sabir\OneDrive\Рабочий стол\API_Project\APIOnion\src\WebAPI\APIOnion.WebApi\obj\Debug\net6.0\ref\APIOnion.WebApi.dll
+C:\Users\sabir\OneDrive\Рабочий стол\API_Project\APIOnion\src\WebAPI\APIOnion.WebApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\sabir\OneDrive\Рабочий стол\API_Project\APIOnion\src\WebAPI\APIOnion.WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\sabir\OneDrive\Рабочий стол\API_Project\APIOnion\src\WebAPI\APIOnion.WebApi\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\sabir\OneDrive\Рабочий стол\API_Project\APIOnion\src\WebAPI\APIOnion.WebApi\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\sabir\OneDrive\Рабочий стол\API_Project\APIOnion\src\WebAPI\APIOnion.WebApi\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
